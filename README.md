@@ -33,7 +33,7 @@
  
 <div align="center">
   <a href="https://github.com/LucasDev23">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=LucasDev23&theme=dark&show_icons=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=LucasDSilva&theme=dark&show_icons=true"/>
 
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDev23&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDSilva&layout=compact&langs_count=7&theme=dark"/>
 </div>
