@@ -39,4 +39,4 @@ Front-end Developer\
 
 ### About Me
 
-My passion for learning new languages and my love for technology have resulted in my ever-increasing interest in learning to code. My goals include working with mobile development, with a focus on Swift. Outside of the digital world (but not always), my hobbies include reading novels and fiction, listening to music, and playing games with my friends.
+My passion for learning new languages and my love for technology have resulted in my ever-increasing interest in learning to code. My goals include working with FrontEnd development, with a focus on Swift. Outside of the digital world (but not always), my hobbies include reading novels and fiction, listening to music, and playing games with my friends.
