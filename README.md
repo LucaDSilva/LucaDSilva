@@ -3,7 +3,6 @@
 
 
 <ul>
- <li><em>Analysis and systems development student at Estácio University</em></li>
  <li><em>Front-End Developer</em></li>
  <li><em>I live in Brasil ,Fortaleza-Ce.</em></li>
 </ul>
